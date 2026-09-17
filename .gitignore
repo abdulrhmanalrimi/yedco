@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.pnpm-store/
+.env*
+.manus-logs/
+.project-config.json
+client/public/__manus__/version.json
